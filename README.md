@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Evan Clausen
 - 👀 I’m student
 - 🌱 I’m amateur coder
-- 📫 How to reach me.
+- 📫 How to reach me:
 - ```Email:Evan@starxmedia.link```
 
 <!---
