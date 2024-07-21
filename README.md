@@ -6,5 +6,5 @@
 </div>
 
 - 📫 How to reach me:
-> Email:Evan@starxmedia.link
+> Email:Evan@friescat.de
 
