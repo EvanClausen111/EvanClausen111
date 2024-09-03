@@ -6,6 +6,6 @@
 </div>
 
 - 📫 How to reach me:
-> Email:Evan@friescat.de  
-> Link: link.friescat.de/Evan-C
+> Email: Evan@friescat.de  
+> Link: https://link.friescat.de/Evan-C
 
