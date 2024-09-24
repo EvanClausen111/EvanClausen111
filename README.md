@@ -4,8 +4,8 @@
 <a href="https://golang.org/"><img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Golang"/></a>
 <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/></a>
 <a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/></a>
-<a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/></a>
-
+<a href="https://redis.io/"><img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white" alt="Redis"/></a>  
+Life is short, I use Python :)
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvanClausen111&show_icons=true&theme=light" alt="Evan Clausen's GitHub Stats" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanClausen111&layout=compact&theme=light" alt="Evan Clausen's Top Langs" /> -->
