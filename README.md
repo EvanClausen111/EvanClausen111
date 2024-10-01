@@ -10,7 +10,7 @@ Life is short, I use Python :)
 
 Working at [FriesCat Ltd.](https://friescat.de)
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvanClausen111&show_icons=true&theme=light" alt="Evan Clausen's GitHub Stats" />
+  <img height="180em" src="http://github-readme-stats-seven-sigma-78.vercel.app/api?username=EvanClausen111&show_icons=true&theme=light" alt="Evan Clausen's GitHub Stats" />
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvanClausen111&layout=compact&theme=light" alt="Evan Clausen's Top Langs" /> -->
 </div>
 
